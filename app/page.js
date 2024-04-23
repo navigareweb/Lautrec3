@@ -15,7 +15,7 @@ export default function Home() {
         <h3 className={styles.text}>POSTERS AND ILLUSTRATIONS</h3>
         <audio
           controls
-          src="/POSTERS-AND-ILLUSTRATIONS.mp3"
+          src="/POSTERSANDILLUSTRATIONS.mp3"
           className={styles.audio}
         >
           Your browser does not support the
